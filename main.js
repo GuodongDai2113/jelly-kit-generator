@@ -1,9 +1,10 @@
-const {writeJsonSync,createZip} = require('./utils')
-const config = require('./config');
-const site_settings = require("./site_settings");
+const fs = require('fs');
+const config = require("./config");
+const { writeJsonSync, createZip } = require("./utils");
+
+const siteSettings = require("./site_settings");
 const manifest = require("./manifest");
 
-writeJsonSync(config.getDistPath("site-settings.json"), site_settings)
-writeJsonSync(config.getDistPath("manifest.json"), manifest)
-createZip(config.distPath.path,config.getDistPath("kit.zip"))
-
+writeJsonSync(config.paths.dist.siteSettings, siteSettings);
+writeJsonSync(config.paths.dist.manifest, manifest);
+createZip('./dist', `./dist/${config.kitName}.zip`);

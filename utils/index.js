@@ -4,10 +4,10 @@ const path = require("path");
 const archiver = require("archiver");
 
 module.exports = {
-  readJsonSync(jsonPath) {
+  readJsonSync: (jsonPath) => {
     try {
       const data = fse.readFileSync(jsonPath, "utf8");
-      console.log("[info] read json : " + jsonPath);
+      console.log("[消息] 读取json : " + jsonPath);
       return JSON.parse(data);
     } catch (error) {
       console.error(`[error] failed to read json : ${jsonPath}`, error);
@@ -15,7 +15,7 @@ module.exports = {
     }
   },
 
-  writeJsonSync(jsonPath, data) {
+  writeJsonSync: (jsonPath, data) => {
     try {
       const minifiedData = JSON.stringify(data);
       fse.writeFileSync(jsonPath, minifiedData, "utf8");
@@ -104,5 +104,11 @@ module.exports = {
 
     // 完成归档文件
     archive.finalize();
+  },
+  copyJson: function (source, target) {
+    const data = fse.readFileSync(source, "utf8");
+    const jsonData = JSON.parse(data);
+    const minifiedData = JSON.stringify(jsonData);
+    fse.writeFileSync(target, minifiedData, "utf8");
   },
 };

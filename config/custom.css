@@ -1,19 +1,4 @@
-/* 不想要内阴影 */
-selector .elementor-field-group .elementor-field-textual:focus {
-    box-shadow: none;
-}
-
-/* 修复输入框与按钮相连圆角问题 */
-selector .elementor-element input:has(+ button):not([type=" button"]):not([type=" submit"]) {
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-selector .elementor-element input:has(+ button):not([type=" button"]):not([type=" submit"])+button {
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-}
-
+/* gtranslate 翻译插件 */
 .gtranslate_wrapper .gt_float_switcher {
     box-shadow: none
 }
@@ -45,4 +30,9 @@ selector .elementor-element input:has(+ button):not([type=" button"]):not([type=
 
 .gtranslate_wrapper {
     height: 24px;
+}
+
+/* 去除输入框选中内阴影 */
+.elementor-field-group .elementor-field-textual:focus{
+    box-shadow: none;
 }

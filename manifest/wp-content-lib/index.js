@@ -73,10 +73,10 @@ const wpContent = {
   pageRssFeed: createRSSFeed(),
   
   postInit() {
-    this.posts = processFilesSync(config.libPath.postPath, config.distPath.postPath, this.postRssFeed);
+    this.posts = processFilesSync(config.paths.lib.postPath, config.paths.dist.postPath, this.postRssFeed);
   },
   pageInit() {
-    this.pages = processFilesSync(config.libPath.pagePath, config.distPath.pagePath, this.pageRssFeed);
+    this.pages = processFilesSync(config.paths.lib.pagePath, config.paths.dist.pagePath, this.pageRssFeed);
   }
 };
 

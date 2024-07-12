@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "id": "5d61e356",
+      "settings": {
+        "padding": {
+          "unit": "em",
+          "top": "2",
+          "right": "2",
+          "bottom": "2",
+          "left": "2",
+          "isLinked": true
+        },
+        "padding_tablet": {
+          "unit": "em",
+          "top": "",
+          "right": "",
+          "bottom": "",
+          "left": "",
+          "isLinked": true
+        },
+        "padding_mobile": {
+          "unit": "em",
+          "top": "",
+          "right": "",
+          "bottom": "",
+          "left": "",
+          "isLinked": true
+        }
+      },
+      "elements": [
+        {
+          "id": "6f71b6c4",
+          "settings": {
+            "content_width": "full",
+            "title": "Add Your Heading Text Here"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "3e980c34",
+          "settings": { "content_width": "full" },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "text-editor",
+          "elType": "widget"
+        },
+        {
+          "id": "11479f55",
+          "settings": {
+            "content_width": "full",
+            "form_name": "New Form",
+            "form_fields": [
+              {
+                "custom_id": "name",
+                "field_label": "Name",
+                "placeholder": "Name",
+                "dynamic": { "active": true },
+                "_id": "c1399f8"
+              },
+              {
+                "custom_id": "email",
+                "field_type": "email",
+                "required": "true",
+                "field_label": "Email",
+                "placeholder": "Email",
+                "_id": "d8add4e"
+              },
+              {
+                "custom_id": "message",
+                "field_type": "textarea",
+                "field_label": "Message",
+                "placeholder": "Message",
+                "_id": "7582fad"
+              }
+            ],
+            "step_next_label": "Next",
+            "step_previous_label": "Previous",
+            "button_text": "Send",
+            "email_content": "[all-fields]",
+            "email_content_2": "[all-fields]",
+            "success_message": "Your submission was successful.",
+            "error_message": "Your submission failed because of an error.",
+            "server_message": "Your submission failed because of a server error.",
+            "invalid_message": "Your submission failed because the form is invalid.",
+            "required_field_message": "This field is required."
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "form",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
+  ],
+  "settings": { "width": { "unit": "px", "size": 480, "sizes": [] } },
+  "metadata": [],
+  "display_settings": { "triggers": [], "timing": [] }
+}
