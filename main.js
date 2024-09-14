@@ -7,4 +7,5 @@ const manifest = require("./manifest");
 
 writeJsonSync(config.paths.dist.siteSettings, siteSettings);
 writeJsonSync(config.paths.dist.manifest, manifest);
-createZip('./dist', `./dist/${config.kitName}.zip`);
+// createZip('./dist', `./dist/${config.kitName}.zip`);
+createZip('./dist', `G:/01.Website/${config.kitName}.zip`);

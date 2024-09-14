@@ -4,8 +4,8 @@ const plugins = require("../config/plugins");
 const templates = require("./template-lib");
 const wpContent = require("./wp-content-lib");
 
-wpContent.postInit();
-wpContent.pageInit();
+// wpContent.postInit();
+// wpContent.pageInit();
 // taxonomies.init();
 
 const manifest = {
@@ -33,15 +33,15 @@ const manifest = {
     "settings-woocommerce",
   ],
   // plugins,
-  templates: templates,
+  // templates: templates,
   // taxonomies: { post: taxonomies.post, nav_menu_item: [] },
-  taxonomies: { post: [], nav_menu_item: [] },
-  content: { page: [], "e-landing-page": [] },
-  "wp-content" : {
-    post: wpContent.posts,
-    page: wpContent.pages,
-    nav_menu_item: [],
-  },
+  // taxonomies: { post: [], nav_menu_item: [] },
+  // content: { page: [], "e-landing-page": [] },
+  // "wp-content" : {
+  //   post: wpContent.posts,
+  //   page: wpContent.pages,
+  //   nav_menu_item: [],
+  // },
 };
 
 module.exports = manifest;

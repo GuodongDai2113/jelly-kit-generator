@@ -76,8 +76,8 @@ function getTypography(element, colorTitle, size, sizeUnit, lineHeight, lineHeig
 const customTypography = {
     paragraph_spacing: { unit: "em", size: 1.5, sizes: [] },
     body_typography_font_family: config.fontFamily,
-    ...getTypography("body", "Text", { pc: 1, tablet: 1, mobile: 1 }, "em", 2, "em"),
-    ...getTypography("h1", "Primary", { pc: 2.5, tablet: 2.25, mobile: 2 }, "em", 1.2, "em"),
+    ...getTypography("body", "Text", { pc: 1, tablet: 1, mobile: 0.875 }, "rem", 1.5, "em"),
+    ...getTypography("h1", "Primary", { pc: 3, tablet: 2.75, mobile: 2.5 }, "em", 1.2, "em"),
     ...getTypography("h2", "Primary", { pc: 2, tablet: 1.875, mobile: 1.75 }, "em", 1.3, "em"),
     ...getTypography("h3", "Primary", { pc: 1.75, tablet: 1.625, mobile: 1.5 }, "em", 1.3, "em"),
     ...getTypography("h4", "Primary", { pc: 1.5, tablet: 1.375, mobile: 1.25 }, "em", 1.4, "em"),
@@ -87,7 +87,5 @@ const customTypography = {
 
 function getTypographys() {
     return customTypography
-
-
 }
 module.exports = {systemTypography,getTypographys};

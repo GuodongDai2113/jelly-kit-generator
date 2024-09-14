@@ -3,8 +3,8 @@ const { setColor } = require("./global-colors");
 
 const button = {
   button_typography_typography: "custom",
-  button_typography_font_size: { unit: "em", size: 0.875, sizes: [] },
-  button_typography_font_weight: config.fontWeight,
+  button_typography_font_size: { unit: "rem", size: 0.875, sizes: [] },
+  button_typography_font_weight: '500',
   button_border_border: "solid",
   button_border_width: {
     unit: "px",

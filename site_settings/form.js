@@ -30,14 +30,14 @@ const form = {
     left: "1",
     isLinked: true,
   },
-  form_field_padding: {
-    unit: "em",
-    top: "0.75",
-    right: "0.75",
-    bottom: "0.75",
-    left: "0.75",
-    isLinked: true,
-  },
+  // form_field_padding: {
+  //   unit: "em",
+  //   top: "0.75",
+  //   right: "0.75",
+  //   bottom: "0.75",
+  //   left: "0.75",
+  //   isLinked: true,
+  // },
 };
 form.form_label_color = setColor('form_label_color',"Primary")
 form.form_field_text_color = setColor('form_field_text_color',"Text")
