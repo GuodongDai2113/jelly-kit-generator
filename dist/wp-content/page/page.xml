@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <item>
+      <title>Cookies Policy</title>
+      <link/>
+      <pubDate/>
+      <description/>
+      <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This Cookie Policy explains how [website_name] ("we", "us" or "this website") uses cookies and similar technologies when you visit our website. By continuing to use this website, you agree to our use of cookies in accordance with this policy. If you do not agree to our Cookie Policy, please adjust your browser settings or cease using this website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">What Are Cookies?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cookies are small text files that are stored on your device (such as a computer, tablet or smartphone) when you visit a website. Cookies allow the website to recognize your device, remember your preferences and analyze your use of the website. We use cookies to improve your user experience and provide you with personalized content and services.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Types of Cookies We Use</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Strictly Necessary Cookies</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>These cookies are essential for the website to function properly, helping you to move around the website and use its features, such as accessing secure areas. Without these cookies, certain services we cannot provide you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Performance Cookies</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>These cookies collect information about how you use our website, such as the pages you visit, loading time, error messages, etc. We use this data to improve the performance of the website and the user experience.<br>We collect and analyze this data through Google Analytics (GA) to understand website traffic, user behavior, and content performance. GA allows us to see information such as user sources and visit length, helping us optimize the content and structure of the website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Functional Cookies</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>These cookies allow us to remember choices you make (such as language or regional preference) and provide more personalised services. They may also be used to remember custom settings you have made to the site's features and enhance your experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Advertising and Targeting Cookies</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We use cookies from Google Ads and other advertising platforms to show you personalized advertising when you browse this or other websites. These cookies collect information about your browsing habits, preferences, and clicks in order to show you more relevant advertising content.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Analytics and Optimization Cookies</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We use cookies to analyze the website's content and SEO performance through SEO plugins and Google Search Console (GSC). These tools help us monitor the website's ranking in search engines, keyword performance, and indexation, so as to optimize content to improve website visibility and user experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Third-party Cookies We Use</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We use the following third-party services to collect and analyze website data and to serve ads:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Google Analytics (GA)</strong>: used to track and analyze user behavior and help us optimize website content. GA collects data such as the pages users visit, visit duration, and geographic location for us to analyze website traffic sources and user interactions.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Google Search Console (GSC)</strong>: used to monitor and optimize the website's search performance and help us understand how users find our website. With GSC, we can monitor index status, click-through rate, and keyword performance.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>SEO plugins</strong> (such as Yoast SEO): used to analyze the SEO performance of website content and help us optimize pages to improve the website's ranking in search engines.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Google Ads</strong>: We place personalized ads on certain pages and use cookies to target and optimize ads to display advertising content that is more relevant to users.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How Long Are Cookies Stored?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The cookies we use are stored on your device for different periods of time. Some cookies are deleted once you close your browser (session cookies), while others remain on your device until they expire or you actively delete them (persistent cookies). The specific storage period may vary depending on the purpose of use.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How To Manage Or Disable Cookies</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most browsers accept cookies by default, but you can adjust your browser settings to block or delete cookies if you prefer. Please note that if you disable cookies, some website features may not function properly and you may not be able to fully experience all the features of this website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are some links to manage cookies for some common browsers:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Google Chrome: <a href="https://support.google.com/chrome/answer/95647">Manage cookies</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Mozilla Firefox: <a href="https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&amp;redirectlocale=en-US">Manage cookies</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Microsoft Edge: <a href="https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09">Manage cookies</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Safari: <a href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac">Manage cookies</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">More Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you would like more detailed information on how we use cookies, or have any questions about our Cookie Policy, please contact us using the following contact details:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Email：[email]<br>Telephone：[phone]<br>Address：[address]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Final Statement</strong>: We may update this Cookie Policy at any time as needed. We recommend that you check this page regularly to ensure that you are aware of the latest Cookie Policy. If we make significant changes to this policy, we will post a notice on the website.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id><![CDATA[1000]]></wp:post_id>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[cookies-policy]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent><![CDATA[0]]></wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link/>
+      <pubDate/>
+      <description/>
+      <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>Last Updated On 19-Sep-2024</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Effective Date 19-Sep-2024</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This Privacy Policy describes the policies of [company_name], [address], Zhejiang 325600, China, email: [email], phone: [phone] on the collection, use and disclosure of your information that we collect when you use our website ( https://[domain] ). (the “Service”). By accessing or using the Service, you are consenting to the collection, use and disclosure of your information in accordance with this Privacy Policy. If you do not consent to the same, please do not access or use the Service.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We may modify this Privacy Policy at any time without any prior notice to you and will post the revised Privacy Policy on the Service. The revised Policy will be effective 180 days from when the revised Policy is posted in the Service and your continued access or use of the Service after such time will constitute your acceptance of the revised Privacy Policy. We therefore recommend that you periodically review this page.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Information We Collect</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We will collect and process the following personal information about you:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>Name</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Email</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Mobile</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How We Use Your Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We will use the information that we collect about you for the following purposes:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Marketing/ Promotional</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>If we want to use your information for any other purpose we will ask you for consent and will use your information only on receiving your consent and then only for the purpose s for which grant consent unless we are required to do otherwise by law</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How We Share Your Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We will not transfer your personal information to any third party without seeking your consent, except in limited circumstances as described below:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Ad service</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Analytics</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Data collection &amp; process</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>We require such third party’s to use the personal information we transfer to them only for the purpose for which it was transferred and not to retain it for longer than is required for fulfilling the said purpose.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We may also disclose your personal information for the following: (1) to comply with applicable law, regulation, court order or other legal process; (2) to enforce your agreements with us, including this Privacy Policy; or (3) to respond to claims that your use of the Service violates any third-party rights. If the Service or our company is merged or acquired with another company, your information will be one of the assets that is transferred to the new owner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Retention Of Your Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We will retain your personal information with us for 90 days to 2 years after user accounts remain idle or for as long as we need it to fulfill the purposes for which it was collected as detailed in this Privacy Policy. We may need to retain certain information for longer periods such as record-keeping / reporting in accordance with applicable law or for other legitimate reasons like enforcement of legal rights, fraud prevention, etc. Residual anonymous information and aggregate information, neither of which identifies you (directly or indirectly), may be stored indefinitely.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Your Rights</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Depending on the law that applies, you may have a right to access and rectify or erase your personal data or receive a copy of your personal data, restrict or object to the active processing of your data, ask us to share (port) your personal information to another entity, withdraw any consent you provided to us to process your data, a right to lodge a complaint with a statutory authority and such other rights as may be relevant under applicable laws. To exercise these rights, you can write to us at [email]. We will respond to your request in accordance with applicable law.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Do note that if you do not allow us to collect or process the required personal information or withdraw the consent to process the same for the required purposes, you may not be able to access or use the services for which your information was sought.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cookies Etc</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>To learn more about how we use these and your choices in relation to these tracking technologies, please refer to our <a href="/cookies-policy/">Cookie Policy.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Security</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The security of your information is important to us and we will use reasonable security measures to prevent the loss, misuse or unauthorized alteration of your information under our control. However, given the inherent risks, we cannot guarantee absolute security and consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Third Party Links &amp; Use Of Your Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Our Service may contain links to other websites that are not operated by us. This Privacy Policy does not address the privacy policy and other practices of any third parties, including any third party operating any website or service that may be accessible via a link on the Service. We strongly advise you to review the privacy policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Grievance / Data Protection Officer</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you have any queries or concerns about the processing of your information that is available with us, you may email our Grievance Officer at [company_name], [address], email: [email]. We will address your concerns in accordance with applicable law.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id><![CDATA[1001]]></wp:post_id>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent><![CDATA[0]]></wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>Terms Of Use</title>
+      <link/>
+      <pubDate/>
+      <description/>
+      <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Welcome to [website_name] (hereinafter referred to as "we" or "this website"). Please read the following Terms of Use (hereinafter referred to as "Terms") carefully, as they apply to all your visits and use of this website. By accessing or using this website, you agree to be bound by these Terms. If you do not agree to these Terms, please do not continue to use this website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Acceptance of Terms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>By accessing, browsing or using [website_name], you indicate that you have read, understood and agree to be bound by these Terms. If you do not accept these Terms, please immediately stop using this website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Service Description</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The information, products and services provided by [website_name] are for lawful purposes only and may be updated or modified from time to time. We reserve the right to change, update or discontinue any content or service on the website at any time without prior notice.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">User Obligations and Responsibilities</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When using [website_name], you agree to comply with all applicable laws and regulations and take full responsibility for your actions. You promise not to engage in the following actions:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Upload, post or transmit any content that is illegal, defamatory, obscene, fraudulent, infringing on the rights of others or in violation of these Terms of Use;</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Unauthorized access, damage or interference with the normal operation of this website;</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Use this website to engage in any illegal activities or unauthorized commercial activities.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Account &amp; Security</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you need to create an account, you are responsible for ensuring the accuracy and security of your account information. You agree to be fully responsible for all activities in your account. If you suspect that your account has been accessed or used without authorization, please notify us immediately.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">intellectual Property</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>All content on [website_name], including but not limited to text, images, videos, graphics, logos, button icons, data compilations, software and their combination, are the property of [website_name] or its content providers and are protected by copyright, trademark and other intellectual property laws. You may not copy, modify, distribute or otherwise use any content on this website without express written permission.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">User Generated Content</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you submit any content to [website_name] (including but not limited to comments, feedback, suggestions, files, images, etc.), you grant [website_name] a non-exclusive, worldwide, royalty-free, transferable license to use, reproduce, modify, distribute and display such content. You represent and warrant that you have all necessary rights to the submitted content and that such content does not infringe the rights of any third party.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Privacy Policy</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The personal information you submit when using [website_name] will be processed in accordance with our published Privacy Policy. Please read our <a href="/privacy-policy/">Privacy Policy</a> carefully to understand how we collect, use, protect and disclose your personal information.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Disclaimer</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This website and its contents are provided on an "as is" basis without warranties of any kind, whether express or implied. We do not guarantee the accuracy, completeness or continued availability of the website's contents. To the maximum extent permitted by law, [website_name] shall not be liable for any direct or indirect damages arising out of the use of, or the inability to use, this website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Limitation of Liability</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>To the maximum extent permitted by applicable law, [website_name] and its directors, employees, agents or other representatives shall not be liable for any direct, indirect, incidental, special, punitive or consequential damages arising out of the use of or inability to use the website or its content, whether based on contract, tort or other legal theory.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Modification of Terms</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We reserve the right to modify or update these Terms of Use at any time without prior notice. The modified terms will be effective for all users once they are posted. It is your responsibility to review these Terms of Use regularly to ensure you are aware of any changes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Termination of Use</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We reserve the right to terminate or suspend your access to the Website at any time without prior notice, in particular if you breach these Terms.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Applicable Law and Dispute Resolution</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>These Terms shall be governed by the laws of [COUNTRY/REGION] and any dispute arising out of these Terms shall be settled by [ARBITRATION/COURT] with the venue being [CITY/REGION].</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Contact Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you have any questions or comments about these Terms of Use, please contact us via the following methods:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Email：[email]<br>Telephone：[phone]<br>Address：[address]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Final Statement</strong>: These Terms constitute the entire agreement between you and [website_name] and supersede all prior written or oral agreements. If any of these terms are held invalid or unenforceable, the remaining terms will remain in full force and effect.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id><![CDATA[1002]]></wp:post_id>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[terms-of use]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent><![CDATA[0]]></wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+  </channel>
+</rss>
